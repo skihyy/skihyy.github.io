@@ -1,6 +1,13 @@
-_site
+# Jekyll files
+/_site
+/_drafts
 .sass-cache
 .jekyll-metadata
 
 # test directory
 /test
+
+# OS files
+.DS_Store
+
+
