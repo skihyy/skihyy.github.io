@@ -1,0 +1,13 @@
+title: YUYANG|雨洋
+author:
+  name: YUYANG|雨洋
+  link: https://yuyang.bid
+permalink: :title
+paginate: 10
+subscribe_rss: /pages/atom.xml
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
